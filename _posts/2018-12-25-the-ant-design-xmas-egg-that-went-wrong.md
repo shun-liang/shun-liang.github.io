@@ -7,7 +7,7 @@ categories: frontend
 
 # The Ant Design Christmas Egg that Went Wrong
 
-![](assets/ant-design-index-snow.jpg)
+![](/assets/ant-design-index-snow.jpg)
 
 [Ant Design](https://ant.design/) is a design language comes with [a set of React comonents](https://ant.design/docs/react/introduce) open sourced by Alibaba's Ant Finance. One can assume its popularity by by looking at its [38837+ stargazers on Github](https://github.com/ant-design/ant-design/stargazers).
 
@@ -17,7 +17,7 @@ Just 4 minutes passed the midnight of the Chirstmas day, Beijing Time, [an issue
 
 This "Christmas Egg" was introduced at commit [`00aebeb`](https://github.com/ant-design/ant-design/commit/00aebeb9756afecc884ad48486084836b9a2707a), from one of the main maintainer of the repo. And the author actually left a comment in the commit, quoted "No need to show this in the changelog".
 
-![](assets/ant-design-commit-00aebeb-diff.png)
+![](/assets/ant-design-commit-00aebeb-diff.png)
 
 In fact, back in November, more than a month before this Chirstmas Egg activates, it was already spotted by a developer who created [an issue](https://github.com/ant-design/ant-design/issues/13098) on Github. It was [responded](https://github.com/ant-design/ant-design/issues/13098#issuecomment-441169987) by another maintainer of Ant Design with a proposed workaround by overriding the CSS.
 
@@ -27,4 +27,4 @@ Someone claims they have [lost their job](https://github.com/ant-design/ant-desi
 
 The Ant Design team have pinned two issues about the Chirstmas Egg and its workaround, in [Chinese](https://github.com/ant-design/ant-design/issues/13848) and in [English](https://github.com/ant-design/ant-design/issues/13849).
 
-![](assets/ant-design-issues-20181225.png)
+![](/assets/ant-design-issues-20181225.png)
