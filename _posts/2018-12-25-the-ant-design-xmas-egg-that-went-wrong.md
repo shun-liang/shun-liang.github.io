@@ -5,8 +5,6 @@ date:   2018-12-25 17:31:17 +0000
 categories: frontend
 ---
 
-# The Ant Design Christmas Egg that Went Wrong
-
 ![](/assets/ant-design-index-snow.jpg)
 
 [Ant Design](https://ant.design/) is a design language comes with [a set of React comonents](https://ant.design/docs/react/introduce) open sourced by Alibaba's Ant Finance. One can assume its popularity by by looking at its [38837+ stargazers on Github](https://github.com/ant-design/ant-design/stargazers).
