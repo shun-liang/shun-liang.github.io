@@ -9,7 +9,7 @@ categories: frontend
 
 [Ant Design](https://ant.design/) is a design language comes with [a set of React comonents](https://ant.design/docs/react/introduce) open sourced by Alibaba's Ant Finance. One can assume its popularity by looking at its [38837+ stargazers on Github](https://github.com/ant-design/ant-design/stargazers).
 
-Just 4 minutes passed the midnight of the Christmas day, Beijing Time, [an issue](https://github.com/ant-design/ant-design/issues/13818) on the Ant Design Github repo started the wave of outcries of developers who had Ant Design in their dependencies on product, and suddenly found out there were snow on top of their UI buttons, and also change their titles to "Ho ho ho".
+Just 4 minutes passed the midnight of the Christmas day, Beijing Time, [an issue](https://github.com/ant-design/ant-design/issues/13818) on the Ant Design Github repo started the wave of outcries of developers who had Ant Design in their dependencies on their production environment, and suddenly found out there were snow on top of their UI buttons, and also changed their titles to "Ho ho ho".
 
 > There is snow on top of the buttons. This is not good for production!!!
 
