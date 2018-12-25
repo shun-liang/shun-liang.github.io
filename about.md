@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I am a software engineer based in London, UK.
+My name is Shun Liang. I am a software engineer based in London, UK.
