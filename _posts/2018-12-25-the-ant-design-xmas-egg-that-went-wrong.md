@@ -13,7 +13,7 @@ Just 4 minutes passed the midnight of the Chirstmas day, Beijing Time, [an issue
 
 > There is snow on top of the buttons. This is not good for production!!!
 
-This "Christmas Egg" was introduced at commit [`00aebeb`](https://github.com/ant-design/ant-design/commit/00aebeb9756afecc884ad48486084836b9a2707a), from one of the main maintainer of the repo. And the author actually left a comment in the commit, quoted "No need to show this in the changelog".
+This "Christmas Egg" was introduced at commit [`00aebeb`](https://github.com/ant-design/ant-design/commit/00aebeb9756afecc884ad48486084836b9a2707a), from one of the main maintainer of the repo. And the author actually left a comment in the commit, quoted ["No need to show this in the changelog"](https://github.com/ant-design/ant-design/commit/00aebeb9756afecc884ad48486084836b9a2707a#commitcomment-30445378).
 
 ![](/assets/ant-design-commit-00aebeb-diff.png)
 
