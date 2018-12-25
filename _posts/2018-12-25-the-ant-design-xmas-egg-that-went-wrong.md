@@ -21,7 +21,7 @@ In fact, back in November, more than a month before this Chirstmas Egg activates
 
 This issue became heated with comments after many developers troubled by the behaviour of the Chirstmas Egg on the Chirstmas Day in their production environments.
 
-Someone claims they have [lost their job](https://github.com/ant-design/ant-design/issues/13098#issuecomment-449786093) because of it. Someone also claims being fired as [their employer's clients are state-run institutions in China](https://github.com/ant-design/ant-design/issues/13848#issuecomment-449799637). The timing is sensitive and unfortunate as [local governments in China are cracking down Chirstmas celebrations](https://www.theguardian.com/world/2018/dec/24/china-cracks-down-on-christmas-celebrations).
+Someone claims they have [lost their job](https://github.com/ant-design/ant-design/issues/13098#issuecomment-449786093) because of it. Someone also claims being fired as [their employer's clients are state-run institutions in China](https://github.com/ant-design/ant-design/issues/13848#issuecomment-449799637). The timing is sensitive and unfortunate as [local governments in China are cracking down Christmas celebrations](https://www.theguardian.com/world/2018/dec/24/china-cracks-down-on-christmas-celebrations).
 
 The Ant Design team have pinned two issues about the Chirstmas Egg and its workaround, in [Chinese](https://github.com/ant-design/ant-design/issues/13848) and in [English](https://github.com/ant-design/ant-design/issues/13849).
 
