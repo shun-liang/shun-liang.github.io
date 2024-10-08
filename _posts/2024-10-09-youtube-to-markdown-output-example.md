@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "An example output of Youtube to Markdown"
+date:   2024-10-09 00:30:00 +0000
+categories: whisper llm
+---
+
 # Artificial Intelligence, Lean Start-up Method, and Product Innovation – Business & Generative AI
 
 https://www.youtube.com/watch?v=eUWEuU8p6YI
